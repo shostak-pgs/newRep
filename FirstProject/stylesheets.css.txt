@@ -1,0 +1,16 @@
+greeting {
+  margin-left: 10%;
+  margin-right: 10%;
+  background: #fc0;
+  padding: 12px;
+  text-align: center;
+}
+   
+form {
+  margin-left: 10%;
+  margin-right: 10%;
+  background: #40ff00;
+  padding: 10px;
+  text-align: center;
+}
+      
